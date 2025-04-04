@@ -20,8 +20,8 @@ Welcome to the MCP server designed to leverage the Fresh LinkedIn Profile Data A
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/AIAnytime/Awesome-MCP-Server
-   cd linkedin_profile_scraper
+   git clone https://github.com/shubhwithai/linkedin-scraper-mcp
+   cd linkedin-scraper-mcp
    ```
 
 2. **Install Dependencies:**
